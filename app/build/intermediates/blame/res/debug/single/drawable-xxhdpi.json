@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_play.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\bg_play.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\white_bishop.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\white_bishop.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\black_knight_preasured.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\black_knight_preasured.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\white_queen_selected.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\white_queen_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_exit.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\bg_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\white_knight_preasured.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\white_knight_preasured.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\white_king_preasured.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\white_king_preasured.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\black_king_preasured.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\black_king_preasured.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\black_king.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\black_king.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\black_rook_selected.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\black_rook_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\splash_title.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\splash_title.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\black_rook_preasured.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\black_rook_preasured.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\white_rook_preasured.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\white_rook_preasured.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\white_king.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\white_king.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\white_rook_selected.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\white_rook_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\white_queen.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\white_queen.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\black_king_selected.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\black_king_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_undo_button.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\bg_undo_button.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_undo_button_selected.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\bg_undo_button_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\black_queen_preasured.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\black_queen_preasured.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_dialog.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\bg_dialog.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\black_knight_selected.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\black_knight_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\black_queen.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\black_queen.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\white_bishop_preasured.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\white_bishop_preasured.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_pause_button.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\bg_pause_button.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\black_queen_selected.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\black_queen_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\white_bishop_selected.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\white_bishop_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\white_rook.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\white_rook.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\black_bishop.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\black_bishop.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\white_knight_selected.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\white_knight_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_pause_button_selected.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\bg_pause_button_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\white_knight.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\white_knight.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\black_bishop_preasured.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\black_bishop_preasured.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_wall.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\bg_wall.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_android.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\icon_android.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\black_pawn.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\black_pawn.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\black_pawn_preasured.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\black_pawn_preasured.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\white_queen_preasured.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\white_queen_preasured.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_back.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\bg_back.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\white_king_selected.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\white_king_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\black_knight.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\black_knight.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\black_bishop_selected.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\black_bishop_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\white_pawn.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\white_pawn.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\black_pawn_selected.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\black_pawn_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\black_rook.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\black_rook.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\white_pawn_selected.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\white_pawn_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\white_pawn_preasured.png",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\drawable-xxhdpi\\white_pawn_preasured.png"
+    }
+]

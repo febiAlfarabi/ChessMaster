@@ -1,0 +1,461 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_wall"
+    tools:context=".KuisionerActivity" >
+
+    <LinearLayout
+        android:id="@+id/contentLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/footerLayout"
+        android:layout_alignParentBottom="false"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical" >
+
+        <ScrollView
+            android:id="@+id/scrollView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:id="@+id/scrollableContentLayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#FFFF90"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:padding="10dp" >
+                       
+				<TextView
+                        android:id="@+id/titleKuisionerTv"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:text="How Do You Think About This Game"
+                        android:textSize="18sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="5dp" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/TextView05"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Game Speed ?"
+                            android:textColor="#FFFF50" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" >
+
+                        <Button
+                            android:id="@+id/veryBadSppedButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Very Bad"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/badSpeedButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Bad"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+                        
+                        <Button
+                            android:id="@+id/normalSpeedButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Normal"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/goodSpeedButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Good"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/veryGoodSpeedButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Very Good"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="5dp" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/TextView04"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Computer Intelligence ?"
+                            android:textColor="#FFFF50" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" >
+
+                        <Button
+                            android:id="@+id/veryBadIntelligenceButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Very Bad"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/badIntelligenceButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Bad"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/normalIntelligenceButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Normal"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/goodIntelligenceButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Good"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/veryGoodIntelligenceButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Very Good"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="5dp" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/TextView02"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Design ?"
+                            android:textColor="#FFFF50" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" >
+
+                        <Button
+                            android:id="@+id/veryBadDesignButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Very Bad"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/badDesignButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Bad"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/normalDesignButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Normal"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/goodDesignButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Good"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/veryGoodDesignButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Very Good"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="5dp" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/textView1"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Fun ?"
+                            android:textColor="#FFFF50" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" >
+
+                        <Button
+                            android:id="@+id/veryBadFunButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Very Bad"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/badFunButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Bad"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/normalFunButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Normal"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/goodFunButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Good"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/veryGoodFunButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Very Good"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="5dp" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/TextView01"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Do You Win Against The Computer ?"
+                            android:textColor="#FFFF50" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" >
+
+                        <Button
+                            android:id="@+id/noWinningButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="No"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/yesWinningButton"
+                            android:layout_width="55dp"
+                            android:layout_height="20dp"
+                            android:background="@drawable/options_button_selector"
+                            android:text="Yes"
+                            android:textColor="#ffffff"
+                            android:textSize="10sp"
+                            android:textStyle="bold" />
+
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="5dp" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+
+                        <TextView
+                            android:id="@+id/TextView03"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Comment"
+                            android:textColor="#FFFF50" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical" >
+
+                        <EditText
+                            android:id="@+id/commentTextView"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:ems="10"
+                            android:inputType="textMultiLine" >
+						</EditText>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/footerLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/submitButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_selector"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:text="Submit"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</RelativeLayout>

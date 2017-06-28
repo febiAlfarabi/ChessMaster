@@ -1,0 +1,133 @@
+<com.alfarabi.chessmaster.mviews.custom.BaseAppWall xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:custom="http://schemas.android.com/apk/res/com.alfarabi.chessmaster"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="vertical"
+    tools:context=".BasePlayActivity" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/baseLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/footerLayout"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <com.alfarabi.chessmaster.mviews.layout.PlayerInfo
+                android:id="@+id/yourPlayerInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                custom:mine="false"
+                android:orientation="horizontal" >
+
+                <com.alfarabi.chessmaster.mviews.custom.ImageIcon
+                    android:id="@+id/yourImageIcon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    custom:mine="false" />
+
+                <com.alfarabi.chessmaster.mviews.layout.GameInfo
+                    android:id="@+id/yourGameInfo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.8"
+                    android:orientation="vertical" >
+                </com.alfarabi.chessmaster.mviews.layout.GameInfo>
+
+                <TextView
+                    android:id="@+id/yourNotifTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.2"
+                    android:gravity="center"
+                    android:textColor="#FF0000"
+                    android:textSize="20sp" />
+
+            </com.alfarabi.chessmaster.mviews.layout.PlayerInfo>
+
+            <com.alfarabi.chessmaster.mviews.BaseBoardLayout
+                android:id="@+id/baseBoardLayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" >
+            </com.alfarabi.chessmaster.mviews.BaseBoardLayout>
+
+            <com.alfarabi.chessmaster.mviews.layout.PlayerInfo
+                android:id="@+id/myPlayerInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                custom:mine="true"
+                android:gravity="right"
+                android:orientation="horizontal" >
+                
+                <com.alfarabi.chessmaster.mviews.layout.GameInfo
+                    android:id="@+id/myGameInfo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.8"
+                    android:orientation="vertical" >
+                </com.alfarabi.chessmaster.mviews.layout.GameInfo>
+
+                <TextView
+                    android:id="@+id/myNotifTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.2"
+                    android:gravity="center"
+                    android:textColor="#FF0000"
+                    android:textSize="20sp" />
+                
+                <com.alfarabi.chessmaster.mviews.custom.ImageIcon
+                    android:id="@+id/myImageIcon"
+                    custom:mine="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+            </com.alfarabi.chessmaster.mviews.layout.PlayerInfo>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/footerLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal"
+            android:padding="5dp" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:orientation="vertical" >
+
+                <com.alfarabi.chessmaster.mviews.button.PauseButton
+                    android:id="@+id/pauseButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:gravity="right"
+                android:orientation="vertical" >
+
+                <com.alfarabi.chessmaster.mviews.button.UndoButton
+                    android:id="@+id/undoButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</com.alfarabi.chessmaster.mviews.custom.BaseAppWall>

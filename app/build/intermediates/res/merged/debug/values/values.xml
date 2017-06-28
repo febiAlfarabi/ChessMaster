@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PlayerInfo"><attr format="boolean" name="mine"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Chess Mazter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_config">ConfigActivity</string>
+    <string name="title_activity_demo">DemoActivity</string>
+    <string name="title_activity_game_settings">GameSettingsActivity</string>
+    <string name="title_activity_kuisioner">KuisionerActivity</string>
+    <string name="title_activity_playing">PlayingActivity</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="c_style_radio_button" parent="@android:style/Widget.CompoundButton.RadioButton">
+        <!-- <item name="android:button">@drawable/c_bg_radio_button</item>
+         -->
+    </style>
+    <style name="colorOptionRadioGroupLeft">
+        <item name="android:width">90dp</item>
+        <item name="android:height">20dp</item>
+        <item name="android:text">White</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="colorOptionRadioGroupRight">
+        <item name="android:width">90dp</item>
+        <item name="android:height">20dp</item>
+        <item name="android:text">Black</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="vsOptionRadioGroupLeft">
+        <item name="android:width">90dp</item>
+        <item name="android:height">20dp</item>
+        <item name="android:text">Vs Com</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+    <style name="vsOptionRadioGroupRight">
+        <item name="android:width">90dp</item>
+        <item name="android:height">20dp</item>
+        <item name="android:text">Vs Player</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+</resources>

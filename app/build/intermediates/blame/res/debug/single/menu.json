@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_activity.xml",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\menu\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\menu\\kuisioner.xml",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\menu\\kuisioner.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\menu\\config.xml",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\menu\\config.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\menu\\game_settings.xml",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\menu\\game_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\menu\\playing.xml",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\menu\\playing.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\menu\\demo.xml",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\menu\\demo.xml"
+    }
+]

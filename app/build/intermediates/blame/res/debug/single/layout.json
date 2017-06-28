@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\play_activity.xml",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\layout\\play_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chess_config_activity.xml",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\layout\\chess_config_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_pause_dialog.xml",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\layout\\layout_pause_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\game_setting_activity.xml",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\layout\\game_setting_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\start_activity.xml",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\layout\\start_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\demo_activity.xml",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\layout\\demo_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kuisioner_activity.xml",
+        "source": "C:\\Users\\User\\Desktop\\My-Project\\ChessMaster\\app\\src\\main\\res\\layout\\kuisioner_activity.xml"
+    }
+]

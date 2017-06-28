@@ -1,0 +1,149 @@
+<com.alfarabi.chessmaster.mviews.custom.BaseAppWall 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/baseAppWall "
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="20dp"
+    tools:context=".ChessConfigActivity" >
+
+    <com.alfarabi.chessmaster.mviews.custom.ConfigPanel
+        android:id="@+id/configPanel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/footerLayout"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:gravity="center_vertical" >
+
+                <TextView
+                    android:id="@+id/notificationTitleTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Versus"
+                    android:textColor="@android:color/white"
+                    android:textSize="18sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:gravity="right"
+                android:orientation="vertical" >
+
+                <RadioGroup
+                    android:id="@+id/vsOptionsRg"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <RadioButton
+                        android:id="@+id/vsComRbLeft"
+                        style="@style/vsOptionRadioGroupLeft"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:checked="true"
+                        android:textColor="@android:color/white" />
+
+                    <RadioButton
+                        android:id="@+id/vsPlayerRbRight"
+                        style="@style/vsOptionRadioGroupRight"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/white" />
+
+                </RadioGroup>
+            </LinearLayout>
+        </LinearLayout>
+
+        <com.alfarabi.chessmaster.mviews.custom.SeekBarPanel
+            android:id="@+id/seekBarPanel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="bottom"
+            android:orientation="vertical" >
+        </com.alfarabi.chessmaster.mviews.custom.SeekBarPanel>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:gravity="center_vertical" >
+
+                <TextView
+                    android:id="@+id/yourNotifTv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Color"
+                    android:textColor="@android:color/white"
+                    android:textSize="18sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:gravity="right"
+                android:orientation="vertical" >
+
+                <RadioGroup
+                    android:id="@+id/colorOptionsRg"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <RadioButton
+                        android:id="@+id/whiteRbLeft"
+                        style="@style/colorOptionRadioGroupLeft"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:checked="true"
+                        android:textColor="@android:color/white" />
+
+                    <RadioButton
+                        android:id="@+id/blackRbRight"
+                        style="@style/colorOptionRadioGroupRight"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/white" />
+
+                </RadioGroup>
+            </LinearLayout>
+        </LinearLayout>
+
+    </com.alfarabi.chessmaster.mviews.custom.ConfigPanel>
+
+    <LinearLayout
+        android:id="@+id/footerLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="20dp"
+        android:gravity="right"
+        android:orientation="vertical" >
+
+        <com.alfarabi.chessmaster.mviews.button.PlayButton
+            android:id="@+id/playButton"
+            android:layout_width="50dp"
+            android:layout_height="45dp"/>
+    </LinearLayout>
+
+</com.alfarabi.chessmaster.mviews.custom.BaseAppWall>
